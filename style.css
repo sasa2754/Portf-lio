@@ -1,0 +1,10 @@
+.caixa{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 86vw;
+    height: 45vw;
+    background-color: rgba(255, 255, 255, 0.685);
+    border-radius: 5vw;
+}
